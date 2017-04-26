@@ -17,6 +17,8 @@ b)  Idade maior que 12 e menor que 18 anos: Adolescente;
 c)  Idade maior ou igual a 18 anos:Adulto;
 
 
+
+
 ---------------Exercicios (do...while)-------------------------
 
 1.  Refazer o algoritmo que calcula a área de um triângulo
@@ -42,6 +44,9 @@ a)  Número de alunos;
 b)  Nome de cada aluno;
 
 c)  Nota do aluno (entre 0 e 10).
+
+
+
 
 ---------------Exercícios (for)-------------------------------------
 
