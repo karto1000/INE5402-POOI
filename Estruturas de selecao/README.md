@@ -66,21 +66,17 @@ Logo o valor total da conta de água é R$ 267,00.
 Escreva um programa que, dado o consumo de uma residência em m 3 , calcula o valor da conta de água daquela
 residência.
 
-Entrada:
-A única linha da entrada
-contém um único inteiro N,
-indicando o consumo de
-água da residência, em m 3
-(0 ≤ N ≤ 103).
 
-Saída:
-Seu programa deve
-escrever uma única linha,
-contendo o valor da conta
-de água da residência.
+Entrada: A única linha da entrada contém um único inteiro N,indicando o consumo de água da residência, em m3 (0 ≤ N ≤ 103).
+
+Saída: Seu programa deve escrever uma única linha, contendo o valor da conta de água da residência.
+
 Restrições: 0 ≤ N ≤ 1000
 
-Exemplos
+Exemplos:
+
 Entrada: 8 Saída: 7
+
 Entrada: 14 Saída: 11
+
 Entrada: 42 Saída: 51
