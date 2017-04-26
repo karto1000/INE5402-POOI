@@ -15,9 +15,11 @@ positivo N, determine se esse número é par ou não.
 
 3.  Escreva o comando de seleção para cada uma das situações a
 seguir:
+
 A.  Se X for maior que Y ou se Z for menor ou igual a 30,
 multiplique X por 2. Caso contrário, divida X por 2 e divida Z
 por 5;
+
 B.  Se o desconto for menor que 25% e o preço do produto for
 maior que R$25000,00, então mostre o nome do produto.
 
