@@ -1,4 +1,4 @@
-Exercícios (While)
+---------------Exercícios (While)------------------------------
 
 1.  Refazer o algoritmo que calcula a área de um triângulo
 usando o comando enquanto-faça. Solicite ao usuário
@@ -16,7 +16,8 @@ b)  Idade maior que 12 e menor que 18 anos: Adolescente;
 
 c)  Idade maior ou igual a 18 anos:Adulto;
 
-Exercicios (do...while)
+
+---------------Exercicios (do...while)-------------------------
 
 1.  Refazer o algoritmo que calcula a área de um triângulo
 usando o comando Repita. Solicite ao usuário o
@@ -42,7 +43,7 @@ b)  Nome de cada aluno;
 
 c)  Nota do aluno (entre 0 e 10).
 
-Exercícios (for)
+---------------Exercícios (for)-------------------------------------
 
 1.  Revisitar o algoritmo que calcula a área de um triângulo
 usando o comando Para-Faça.
