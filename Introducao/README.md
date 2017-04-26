@@ -1,3 +1,5 @@
+Exercícios
+
 1.  Considerando o exemplo da classe Triangulo, escrever
 um trecho de código que aumenta em duas vezes a
 área calculada.
