@@ -80,3 +80,22 @@ Entrada: 8 Saída: 7
 Entrada: 14 Saída: 11
 
 Entrada: 42 Saída: 51
+
+6.  Um vendedor tem seu salário calculado em função do valor total de suas
+vendas. Esse cálculo é feito de acordo com o seguinte critério: se o valor total
+de suas vendas for maior que R$20.000,00, o vendedor receberá como salário
+10% do valor das vendas. Caso contrário, receberá apenas 7,5% do valor das
+vendas. Escrever um programa que determine o valor ganho pelo vendedor.
+
+7.  Considere que o último concurso vestibular apresentou três provas: Português,
+Matemática e Conhecimentos Gerais. Considerando que para um candidato
+tem-se um registro contendo o seu nome e as notas obtidas em cada uma das
+provas, implementar um programa que forneça:
+
+A. O nome e as notas em cada prova do candidato;
+
+B.  A média do candidato;
+
+C.  Uma informação dizendo se o candidato foi aprovado ou não. Considere que o
+candidato é aprovado se sua média for maior que 5.0 e se não apresentou nenhuma
+nota abaixo de 4.0
